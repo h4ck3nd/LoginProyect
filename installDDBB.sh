@@ -28,7 +28,7 @@ echo "✅ Base de datos y usuario configurados."
 
 # Instalar psycopg2 para Python
 echo "🐍 Instalando librería psycopg2 para conectar con Python..."
-pip install psycopg2
+pip install psycopg2-binary
 
 # Crear la tabla dentro de la base de datos
 echo "📦 Creando la estructura de la base de datos..."
